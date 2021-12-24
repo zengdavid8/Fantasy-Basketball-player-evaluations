@@ -1,0 +1,54 @@
+------------------------------------------
+Per Game
+------------------------------------------
+G- Game
+MP- Minutes Played
+FG- Field Goal per game
+FGA- Field Goal attempt per game
+FG%- Field Goal Percentage
+3P- 3 point field goal
+3PA- 3 point field goal attempt per game
+3P%- 3 point Percentage
+2P- 2 point field goal per game
+2PA- 2 point field goal attempt per game
+2P%- 2 point Percentage
+eFG%- Effective Field Goal Percentage
+FT- Free Throw Per Game
+FTA- Free Throw Attempt Per Game
+FT%- Free Throw Percentage
+ORB- Offensive Rebound Per Game
+DRB- Defensive Rebound Per Game
+TRB- Total Rebound Per Game
+AST- Assist Per Game
+STL- Steal Per Game
+BLK- Block Per Game
+TOV- Turn Over Per Game
+PF- Personal Foul Per Game
+PTS- Points Per Game
+------------------------------------------
+Advance stats Label
+------------------------------------------
+PER-Player Efficiency Rating
+TS%-True Shooting Percentage
+3PAr-3 point Attempt rate
+FTr-Free Throw Attempt rate
+ORB%-Offensive Rebound 
+DRB%-Defensive Rebound 
+TRB%-Total Rebound Percentage 
+AST%-Assist Percentage
+STL%-Steal Percentage 
+BLK%=Block Percentage 
+TOV%-Turn Over Percentage
+USG%-Usage rate percentage
+OWS-Offensive win share
+DWS-Defensive win Share
+WS-Win share
+OBPM-Offensive Box Plus-Minus
++10.0 is an all-time season (think peak Jordan or LeBron)
++8.0 is an MVP season (think peak Dirk or peak Shaq)
++6.0 is an all-NBA season
++4.0 is in all-star consideration
++2.0 is a good starter
++0.0 is a decent starter or solid 6th man
+-2.0 is a bench player (this is also defined as "replacement level")
+Below -2.0 are many end-of-bench players
